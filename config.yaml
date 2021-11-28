@@ -1,0 +1,18 @@
+# baseurl: "https://carboncrowd.io"
+title: "Carbon Crowd"
+author: "Hamish Hutchings"
+# canonifyurls: true
+paginate: 3
+
+theme: "hugo-theme-lean-launch-page"
+
+params:
+  tagline: "Carbon Trading on the Blockchain for the retailer"
+  mailchimpURL: "https://carboncrowd.us20.list-manage.com/subscribe/post?u=f71c851cb7ad97ae47d7bbca5&amp;id=9d6bb5facc"
+
+  # twitter: "https://twitter.com/MyNewProduct"
+  # facebook: "https://facebook.com/MyNewProduct"
+  # instagram: "https://instagram.com/MyNewProduct"
+  # youtube: "https://www.youtube.com/channel/MyNewChannel"
+  # linkedin: "https://www.linkedin.com/company/MyNewProduct"
+  github: "https://github.com/CarbonCrowd"
